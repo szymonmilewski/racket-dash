@@ -1,0 +1,6 @@
+#lang racket
+(require mode-lambda)
+(require mode-lambda/static)
+
+(make-sprite-db)
+
