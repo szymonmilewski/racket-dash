@@ -1,1 +1,1 @@
-# racket-dash
+# Geometry Dash-inspired game
